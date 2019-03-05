@@ -1,6 +1,6 @@
 # Site settings
 title: "Neels van Wyk Resume"
-description: "This is just where I keep my CV"
+description: "My simple online CV"
 
 # Build settings
 markdown: kramdown
