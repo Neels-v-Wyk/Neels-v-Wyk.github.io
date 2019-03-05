@@ -3,7 +3,7 @@
   description: I have multiple years of experience working in teams, whether freelancing or collaboratively in a company, thus I've learned how to quickly and effectively communicate ideas and concepts that I understand well.
 
 # Linux and *nix based systems
-- skill: Linux and \*nix based systems
+- skill: Linux and &starf;nix based systems
   description: I love Linux, and let's be honest, who doesn't? Almost all of my experience is on Linux machines, and I feel most at home with a terminal in front of me. Linux isn't all I've done though, I have rudementary experience with BSD (FreeBSD and OpenBSD), SunOS/Solaris, and even GNU Hurd :D
 
 # Docker/Kubernetes
