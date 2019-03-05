@@ -1,6 +1,6 @@
 # Site settings
 title: "Neels van Wyk Resume"
-description: "A CV on Github Pages"
+description: "My CV on Github Pages"
 
 # Build settings
 markdown: kramdown
