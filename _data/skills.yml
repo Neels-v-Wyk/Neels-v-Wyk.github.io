@@ -36,5 +36,5 @@
 
 # Non-specific skills
 - skill: Non-specific skills
-  description: These are technologies I've worked with that I didn't feel were important enough to get their own listing, they include\: data logging and metric visualization (Prometheus, Graphite, InfluxDB, Grafana, Nagios, Datadog), LAMP stacks and their variations (Apache/Nginx/Lighttpd, Perl/PHP/Python, MariaDB/MySQL). I have some basic programming experience too, because sometimes what you want just doesn't exist yet (Rust/Python/C/Bash/Java/JavaScript/PHP).
+  description: These are technologies I've worked with that I didn't feel were important enough to get their own listing, they include&#58; data logging and metric visualization (Prometheus, Graphite, InfluxDB, Grafana, Nagios, Datadog), LAMP stacks and their variations (Apache/Nginx/Lighttpd, Perl/PHP/Python, MariaDB/MySQL). I have some basic programming experience too, because sometimes what you want just doesn't exist yet (Rust/Python/C/Bash/Java/JavaScript/PHP).
 
