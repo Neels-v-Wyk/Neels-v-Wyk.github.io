@@ -1,12 +1,40 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Effective Communications
+- skill: Effective Communications
+  description: I have multiple years of experience working in teams, whether freelancing or collaboratively in a company, thus I've learned how to quickly and effectively communicate ideas and concepts that I understand well.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Linux and *nix based systems
+- skill: Linux and \*nix based systems
+  description: I love Linux, and let's be honest, who doesn't? Almost all of my experience is on Linux machines, and I feel most at home with a terminal in front of me. Linux isn't all I've done though, I have rudementary experience with BSD (FreeBSD and OpenBSD), SunOS/Solaris, and even GNU Hurd :D
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Docker/Kubernetes
+- skill: Docker/Kubernetes
+  description: I work with docker and k8s on a daily basis, every day I learn a little more of both. I know how to use and apply them in different situations, and know how the flow works from the code in your editor to the app in production.
+
+# OpenShift Management
+- skill: OpenShift management
+  description: Managing OpenShift is one of the first things I learned how to do, whether it be making a simple single node setup, or looking after a multi-cluster environment, I'm confident in my ability to diagnose and solve issues.
+
+# Rancher Management
+- skill: Rancher Management
+  description: Rancher is very similar to OpenShift, so it was easy to pick up. It's the new kid on the block, and the more I toy with it, the bigger things I expect to come from it.
+
+# Configuration Management
+- skill: Configuration Management
+  description: Chef, Puppet, Ansible, SaltStack, I've done it all and try to use them whenever the opportunity allows it.
+
+# AWS, Azure and Google Cloud
+- skill: AWS, Azure and Google Cloud
+  description: I have experience with cloud environments on all these platforms, mostly related to k8s in the cloud and setting up load-balanced applications.
+
+# Elastic, LogStash and Kibana
+- skill: Elastic, Logstash and Kibana
+  description: I've set up and managed a few ELK stacks in my time. I know how to ingest data into Elastic, how to store logs for long term using Logstash and how to make it all look cool using Kibana. I've also used Beats in many of the setups.
+
+# Databases
+- skill: Databases
+  description: I have some very novice experience with databases, but I feel it worth listing. I've dealt with MariaDB, MySQL, MSSQL, and PostgreSQL, as well as some non-relational databases like Redis, MongoDB and MemcacheDB.
+
+# Non-specific skills
+- skill: Non-specific skills
+  description: These are technologies I've worked with that I didn't feel were important enough to get their own listing, they include: data logging and metric visualization (Prometheus, Graphite, InfluxDB, Grafana, Nagios, Datadog), LAMP stacks and their variations (Apache/Nginx/Lighttpd, Perl/PHP/Python, MariaDB/MySQL). I have some basic programming experience too, because sometimes what you want just doesn't exist yet (Rust/Python/C/Bash/Java/JavaScript/PHP).
+
