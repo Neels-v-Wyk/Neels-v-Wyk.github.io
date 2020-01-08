@@ -3,7 +3,7 @@
 - company: LSD Information Technology
   position: DevOps Engineer
   duration: March 2018 &mdash; October 2019
-  summary: I was in a technical position where I handled the automated provisioning and configuration management of kubernetes clusters to different client environments, and worked on linux servers for smaller clients, as well as maintaing and integrating into CI/CD. These client environments included:&#58;       <ul class="resume-item-list"><li>Multiple Telcos</li><li>Multiple Banking Institutions</li><li>Multiple Financial Corporations</li><li>Multiple Universities</li><li>Medical/Shipping/Freighting Software Development companies</li></ul>
+  summary: I was in a technical position where I managed the automated provisioning and configuration management of kubernetes clusters to different client environments, as well as integrating it with CI/CD tooling. I also administrated linux servers for smaller clients. These client environments included&#58;       <ul class="resume-item-list"><li>Multiple Telcos</li><li>Multiple Banking Institutions</li><li>Multiple Financial Corporations</li><li>Multiple Universities</li><li>Medical/Shipping/Freighting Software Development companies</li></ul>
 
 - company: 4-Sure Technology Solutions
   position: Site Reliability Engineer
