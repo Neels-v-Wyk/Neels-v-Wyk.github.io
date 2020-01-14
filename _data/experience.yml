@@ -1,14 +1,16 @@
 # Jobs
+# 4-Sure
+- company: 4-Sure Technology Solutions
+  position: Site Reliability Engineer
+  duration: October 2019 &mdash; Present
+  summary: A Fintech company where I've been driving the initiative for converting to a DevOps environment and philosophy. A short set of what I've done:&#58;       <ul class="resume-item-list"><li>Set up a CI/CD pipeline using existing infrastructure</li><li>Deployed monitoring, alerting and automatic remediation to servers</li><li>Implemented log aggregation and analysis using ELK</li><li>Migrated several bare-metal applications to AWS/EKS</li><li>Decreased major application deployment timeframe from multiple days to under an hour</li></ul>
+
 # LSD
 - company: LSD Information Technology
   position: DevOps Engineer
   duration: March 2018 &mdash; October 2019
   summary: I was in a technical position where I managed the automated provisioning and configuration management of kubernetes clusters to different client environments, as well as integrating it with CI/CD tooling. I also administrated linux servers for smaller clients. These client environments included&#58;       <ul class="resume-item-list"><li>Multiple Telcos</li><li>Multiple Banking Institutions</li><li>Multiple Financial Corporations</li><li>Multiple Universities</li><li>Medical/Shipping/Freighting Software Development companies</li></ul>
 
-- company: 4-Sure Technology Solutions
-  position: Site Reliability Engineer
-  duration: October 2019 &mdash; Present
-  summary: A Fintech company where I've been driving the initiative for converting to a DevOps environment and philosophy. A short set of what I've done:&#58;       <ul class="resume-item-list"><li>Set up a CI/CD pipeline using existing infrastructure</li><li>Deployed monitoring, alerting and automatic remediation to servers</li><li>Implemented log aggregation and analysis using ELK</li><li>Migrated several bare-metal applications to AWS/EKS</li><li>Decreased major application deployment timeframe from multiple days to under an hour</li></ul>
 
 # Freelancing
 - company: Various
