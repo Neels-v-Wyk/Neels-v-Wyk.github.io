@@ -1,6 +1,6 @@
-# Effective Communications
-- skill: Effective Communications
-  description: I've practiced explaining complicated concepts and ideas extensively, whether to an individual or to groups.
+# infra as code
+- skill: Infrastrucure as Code
+  description: AWS Cloudformation, Terraform, Google Deployment Manager, I've wrangled my share of yaml files into complete environments for other systems to be deployed on.
 
 # Linux and *nix based systems
 - skill: Linux and &ast;nix based systems

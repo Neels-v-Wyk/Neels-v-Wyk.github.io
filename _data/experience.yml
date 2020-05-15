@@ -1,9 +1,17 @@
 # Jobs
+# Disraptor
+
+# 4-Sure
+- company: Disraptor
+  position: DevOps Engineer
+  duration: January 2020 &mdash; Present
+  summary: A fantastic young diruptive idea-oriented company where I'm a consultant for large and small firms, I've contributed to:&#58;       <ul class="resume-item-list"><li>A system for the infra-as-code deployment of Rancher and automated provisioning of EKS clusters with special networking requirements</li><li>Automated integration of linux servers with existing Active Directory infrastructure</li><li>Migration of infrastructure from vanilla k8s clusters to EKS</li><li>Developing a cost savings serverless application that automagically detects when databases and instances aren't being used and shuts them down</li><li>Shifting on prem infrastructure to the cloud and converting it to infra-as-code</li></ul>
+
 # 4-Sure
 - company: 4-Sure Technology Solutions
   position: Site Reliability Engineer
-  duration: October 2019 &mdash; Present
-  summary: A Fintech company where I've been driving the initiative for converting to a DevOps environment and philosophy. A short set of what I've done:&#58;       <ul class="resume-item-list"><li>Set up a CI/CD pipeline using existing infrastructure</li><li>Deployed monitoring, alerting and automatic remediation to servers</li><li>Implemented log aggregation and analysis using ELK</li><li>Migrated several bare-metal applications to AWS/EKS</li><li>Decreased major application deployment timeframe from multiple days to under an hour</li></ul>
+  duration: October 2019 &mdash; January 2020
+  summary: A Fintech company where I drove the initiative for converting from outdated stacks to a DevOps environment and philosophy. A short set of what I've done:&#58;       <ul class="resume-item-list"><li>Set up a CI/CD pipeline using existing infrastructure</li><li>Deployed monitoring, alerting and automatic remediation to servers</li><li>Implemented log aggregation and analysis using ELK</li><li>Migrated several bare-metal applications to AWS/EKS</li><li>Decreased major application deployment timeframe from multiple days to under an hour</li></ul>
 
 # LSD
 - company: LSD Information Technology
