@@ -5,7 +5,7 @@
 - company: Disraptor
   position: DevOps Engineer
   duration: January 2020 &mdash; Present
-  summary: A fantastic young diruptive idea-oriented company where I'm a consultant for large and small firms, I've contributed to:&#58;       <ul class="resume-item-list"><li>A system for the infra-as-code deployment of Rancher and automated provisioning of EKS clusters with special networking requirements</li><li>Automated integration of linux servers with existing Active Directory infrastructure</li><li>Migration of infrastructure from vanilla k8s clusters to EKS</li><li>Developing a cost savings serverless application that automagically detects when databases and instances aren't being used and shuts them down</li><li>Shifting on prem infrastructure to the cloud and converting it to infra-as-code</li></ul>
+  summary: A fantastic young diruptive idea-oriented company where I'm a consultant for large and small firms, I've contributed to&#58;       <ul class="resume-item-list"><li>A system for the infra-as-code deployment of Rancher and automated provisioning of EKS clusters with special networking requirements</li><li>Automated integration of linux servers with existing Active Directory infrastructure</li><li>Migration of infrastructure from vanilla k8s clusters to EKS</li><li>Developing a cost savings serverless application that automagically detects when databases and instances aren't being used and shuts them down</li><li>Shifting on prem infrastructure to the cloud and converting it to infra-as-code</li></ul>
 
 # 4-Sure
 - company: 4-Sure Technology Solutions
