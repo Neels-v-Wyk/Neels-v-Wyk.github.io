@@ -11,7 +11,7 @@
 - company: 4-Sure Technology Solutions
   position: Site Reliability Engineer
   duration: October 2019 &mdash; January 2020
-  summary: A Fintech company where I drove the initiative for converting from outdated stacks to a DevOps environment and philosophy. A short set of what I've done:&#58;       <ul class="resume-item-list"><li>Set up a CI/CD pipeline using existing infrastructure</li><li>Deployed monitoring, alerting and automatic remediation to servers</li><li>Implemented log aggregation and analysis using ELK</li><li>Migrated several bare-metal applications to AWS/EKS</li><li>Decreased major application deployment timeframe from multiple days to under an hour</li></ul>
+  summary: A Fintech company where I drove the initiative for converting from outdated stacks to a DevOps environment and philosophy. A short set of what I've done&#58;       <ul class="resume-item-list"><li>Set up a CI/CD pipeline using existing infrastructure</li><li>Deployed monitoring, alerting and automatic remediation to servers</li><li>Implemented log aggregation and analysis using ELK</li><li>Migrated several bare-metal applications to AWS/EKS</li><li>Decreased major application deployment timeframe from multiple days to under an hour</li></ul>
 
 # LSD
 - company: LSD Information Technology
